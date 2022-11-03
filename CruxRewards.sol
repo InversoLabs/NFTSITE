@@ -53,4 +53,4 @@ contract N2DRewards is ERC20, ERC20Burnable, Ownable {
     controllers[controller] = false;
   }
 }
-Footer
+
